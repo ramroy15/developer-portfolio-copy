@@ -27,4 +27,9 @@ section {
 
 .button {
     text-decoration: none;
+    border-radius: 5%;
+    background-color: orange;
+    padding: 10px 50px;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 1000;
 }
