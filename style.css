@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    font-size: 46%px;
+    font-size: 60%px;
 }
 
 .orange {
@@ -32,4 +32,22 @@ section {
     padding: 10px 50px;
     background-image: linear-gradient(orange, tomato);
     font-weight: 1000;
+}
+
+.size {
+    font-size: 60px;
+    font-weight: bold;
+    font-style: oblique;
+    color: rgb(235, 134, 11);
+}
+
+h3 {
+    color: blue;
+}
+
+.experience-item {
+    box-shadow: 10px 10px 49px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
